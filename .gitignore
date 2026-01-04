@@ -1,0 +1,17 @@
+# Ignore the dataset
+*.csv
+
+# Ignore the virtual environment (if you have one)
+venv/
+env/
+.env
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# Ignore the saved model (optional: you can keep it if it's small, remove this line if you want to push it)
+*.pkl
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
